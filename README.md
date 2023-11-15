@@ -7,7 +7,8 @@
 - (_2017 - 2019_)   | M.Sc., Physics (Astrophysics Specialization) | Department of Physics, Pondicherry University, India.
 
 ## Master Thesis
-#### Title: Unification Schemes of Active Galactic Nuclei (AGN) through dusty torus. 
+* Title: Unification Schemes of Active Galactic Nuclei (AGN) through the dusty torus.
+*  Supervisor: Prof./Dr. K.V.P. Latha, Pondicherry University, India
 
 ### Work Experience
 Artificial Intelligence instructor
