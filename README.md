@@ -45,10 +45,43 @@
   
    Title: Transforming Dental Imaging: 3D Reconstruction from Single PX- Ray Radiograph
 
-  - **Aug, 2023**: | Electronics, Semiconductor, Artificial Intelligence Conference,
+- **Aug, 2023**: | Electronics, Semiconductor, Artificial Intelligence Conference,
   
    Gangneung-Wonju National University, South Korea.,
   
    Title: Clinically applicable 3D reconstruction of teeth from a single panoramic X-Ray radiograph using Deep
            Learning methods: A feasibility study
+
+- **June 2019, Dec, 2022**: | Lecturer at Shree Education Scholars’ Residential College.
+- **Sept, 2020**: | The Vienna Summer School 2020 on Gravitational Quantum Physics (Participated).
+- **June, 2020**: | (Virtual) Strings 2020, University of Cape Town, South Africa, (Participated).
+- **June, 2020** : | 23rd Capra Meeting on Radiation Reaction in General Relativity,
+
+  University of Texas, at Austin, USA. (Participated)
+
+- **2018**: | Summer Internship Programme, Indian Institute of Astrophysics, Bangalore, India.
+
+  **Project Title**: Non-thermal synchrotron emission of ultra-relativistic particles associated with Coronal Mass
+     Ejection
+
+    *Description*: Moving Type IV Coronal radio bursts are observed from the collected data of different telescopes (Radio)
+      present all over the world. The theory of Synchrotron radiation Power Spectrum is derived using modified
+      Bessel’s function of second kind and Integral representation of the Airy function. From the observed data of
+      type IV radio burst Graphs are plotted between Radiation power spectrum and frequency, compared with
+      the theoretical Calculation, and hence confirms that type IV burst emission are due to synchrotron radio
+      emission from ultra-relativistic particles. The influence of Cosmic Plasmas on the propagation and emission
+      of electromagnetic waves also analysed using the theory of Cherenkov radiation theory.
+  
+- **2018**: | Summer School in Physics and Astrophysics, Indian Institute of Astrophysics, Bangalore, India
+              (Participated).
+
+## Projects & Publications
+17. **B.K.Parida**, A.Sen, S.Dhasmana, Z.K. Silagadze; *Lévy-Leblond Equation and Eisenhart-Duval
+lift in Koopman-von Neumann Mechanics*; ( Modern Physics Letters A, Nov. 2023, p. 2350149; (https://doi.org/10.1142/S0217732323501493))
+
+16. **B.K.Parida**, A.Sen; *GUP modified Wigner function using classical-quantum unified frame-work*; (Communicated, (https://doi.org/10.21203/rs.3.rs-2598396/v1))
+
+15. 
+
+
 
