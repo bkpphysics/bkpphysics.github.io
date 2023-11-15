@@ -60,8 +60,7 @@
   University of Texas, at Austin, USA. (Participated)
 
 - **2018**: | Summer Internship Programme, Indian Institute of Astrophysics, Bangalore, India.
-
-  **Project Title**: Non-thermal synchrotron emission of ultra-relativistic particles associated with Coronal Mass
+    **Project Title**: Non-thermal synchrotron emission of ultra-relativistic particles associated with Coronal Mass
      Ejection
 
     *Description*: Moving Type IV Coronal radio bursts are observed from the collected data of different telescopes (Radio)
@@ -72,7 +71,7 @@
       emission from ultra-relativistic particles. The influence of Cosmic Plasmas on the propagation and emission
       of electromagnetic waves also analysed using the theory of Cherenkov radiation theory.
   
-- **2018**: | Summer School in Physics and Astrophysics, Indian Institute of Astrophysics, Bangalore, India
+- **2018**: |  Summer School in Physics and Astrophysics, Indian Institute of Astrophysics, Bangalore, India
               (Participated).
 
 ## Projects & Publications
