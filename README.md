@@ -6,9 +6,7 @@
 
 - **2023-Present**: PhD in Artificial intelligence & image processing, Sun Moon University, South Korea
 - **2017-2019**: M.Sc. Physics (Astrophysics Specialization), Department of Physics, Pondicherry University, India, CGPA -- 8.34, Remark -- First Class
-- **2013-2016**: B.Sc. Physics (Hons.), Government College (Autonomous), Bhawanipatna, Sambalpur University, Odisha, Percentage -- physics : 89.5, math : 78.5, Aggregate : 78.16, Remark -- 1st Class with distinction
-- **2011-2013**: Higher Secondary (11th --12th class), Gayatri Science College, Bhubaneswar, CHSE, Odisha, Percentage -- 78.66, Remark -- 1st Division.
-- **2011**: High School (10th), Durga Madhab Ucha Vidyapitha, M.Rampur, Odisha, BSE, Odisha, Percentage --  85.5, Remark -- First Class
+
 
 ## Masters Thesis
 
@@ -25,15 +23,15 @@
 - Astroparticle physics
 - Quantum Machine Learning
 - General Relativity
-- Computer Vision and Physics informed neural network
+- Computer Vision and physics-informed neural network
 - Modified Gravity
-- Black Hole physics
+- Black Hole Physics
 - Compact astrophysical objects
 - Dark Matter & Dark Energy
 
 ## Programming languages and Computational  skills
 
-- **OS**: Linux,Windows, Android.
+- **OS**: Linux, Windows, Android.
 - **Languages**: Fortran, SKIRT code, Python, HTML.
 - **Computational Tools**: Mathematica, Maplesoft, Origin 9.1, Machine Learning with Python (Tensorflow & PyTorch), Parallel computing, IDL (Interactive Data Language).
 - **Documentation Software**: LaTex, TexStudio, Microsoft office, Libre Office.
@@ -41,5 +39,7 @@
 ## Work Experience/Participations
 
 - **July, 2023 -- Present**: Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
-- **Nov, 2023**: Proceeding of the Korea Artificial-Intelligence Convergence Technology Society, Konyang University, S. Korea, Link, Title: Transforming Dental Imaging: 3D Reconstruction from Single PX- Ray Radiograph
+- **Nov, 2023**: Proceeding of the Korea Artificial-Intelligence Convergence Technology Society, Konyang University, S. Korea.
+   Link: (https://cafe.naver.com/kaicts/120),
+   Title: Transforming Dental Imaging: 3D Reconstruction from Single PX- Ray Radiograph
 
