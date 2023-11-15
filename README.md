@@ -10,7 +10,7 @@
 
 ## Masters Thesis
 
-- **Title**: Unification Schemes of Active Galactic Nuclei (AGN) through dusty torus. Click here to download
+- **Title**: Unification Schemes of Active Galactic Nuclei (AGN) through dusty torus. 
 - **Supervisor**: Professor/Dr. K.V.P. Latha, Pondicherry University, India.
 - **Description**: The main aim of this project is to explain every type of AGN within the same scenario. It is widely accepted that every AGN is powered by accretion onto a Super Massive Black Hole (SMBH), and therefore the structure of their nuclei should be similar in all cases. This leads to the Unified Model (UM) of AGN. In this project, we have developed 3D Radiative Transfer Stimulation for dusty tori using SKIRT code. In the model, by varying different parameters (inner radius and outer radius, optical depth, covering factor, half opening angle, distance, etc.) of tori, SEDs (Spectral Energy Distributions) are plotted and compared with the observational data of the different types of AGNs, mostly in the infrared wavelength range. 10-micron silicate absorption and emission features are analyzed thoroughly for different lines of sight. We found that our model agrees very well with the observational data for the wavelength of less than 10-micron.
 
