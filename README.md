@@ -41,7 +41,7 @@
 - **July 2023 -- Present**: | Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
 - **Nov 2023**: | Proceeding of the Korea Artificial-Intelligence Convergence Technology Society, Konyang University, S. Korea.
   
-   Link: (https://cafe.naver.com/kaicts/120),
+   Link: [https://cafe.naver.com/kaicts/120](https://cafe.naver.com/kaicts/120),
   
    Title: Transforming Dental Imaging: 3D Reconstruction from Single PX- Ray Radiograph
 
@@ -81,7 +81,12 @@ lift in Koopman-von Neumann Mechanics*; ( Modern Physics Letters A, Nov. 2023, p
 
 16. **B.K.Parida**, A.Sen; *GUP modified Wigner function using classical-quantum unified frame-work*; (Communicated, [https://doi.org/10.21203/rs.3.rs-2598396/v1](https://doi.org/10.21203/rs.3.rs-2598396/v1))
 
-15. 
+15. S. Ray, S. Das, K.K. Ghosh, **B.K. Parida**, S.K. Pal, *Moumita Indra; Study of anisotropic compact stars by exploring tidal deformability* (New Astronomy, vol. 104, Nov. 2023, p. 102069; [https://doi.org/10.1016/j.newast.2023.102069](https://doi.org/10.1016/j.newast.2023.102069) )
+
+14. **B.K.Parida**, S.Das, M.Govender; *Toy models of compact anisotropic stars and their Love numbers*; (International Journal of Modern Physics D, vol. 32, no. 06, Apr. 2023, p. 2350038 [https://doi.org/10.1142/S0218271823500384](https://doi.org/10.1142/S0218271823500384))
+13. A.Sen, **B.K.Parida**, S. Dhasmana, Z. K. Silagadze; *Eisenhart lift of Koopman-von Neumann mechanics*; (Journal of Geometry and Physics 185 (2023) 104732; [https://doi.org/10.1016/j.geomphys.2022.104732](https://doi.org/10.1016/j.geomphys.2022.104732))
+12. **B.K.Parida**, S.Majumder, S.Das, K.Chakraborty, F.Rahaman; *Anisotropic compact stellar model of embedding class one satisfying Karmarkar’s condition* (Commun. Theor. Phys. 75, 025403 [https://doi.org/10.1088/1572-9494/acaaf5](https://doi.org/10.1088/1572-9494/acaaf5))
+11. S.Das, **B.K.Parida**, R. Sharma, F. Rahaman; *Central Pressure-Dependent Compact Anisotropic Stellar Model and Its Tidal Love Number* (Eur. Phys. J. Plus 137, 1092 (2022) [https://doi.org/10.1140/epjp/s13360-022-03292-4](https://doi.org/10.1140/epjp/s13360-022-03292-4)) 
 
 
 
