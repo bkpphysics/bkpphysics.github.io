@@ -40,6 +40,7 @@
 
 - **July 2023 -- Present**: Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
 - **Nov 2023**: Proceeding of the Korea Artificial-Intelligence Convergence Technology Society, Konyang University, S. Korea.
+- 
    Link: (https://cafe.naver.com/kaicts/120),
   
    Title: Transforming Dental Imaging: 3D Reconstruction from Single PX- Ray Radiograph
