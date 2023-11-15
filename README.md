@@ -86,7 +86,17 @@ lift in Koopman-von Neumann Mechanics*; ( Modern Physics Letters A, Nov. 2023, p
 14. **B.K.Parida**, S.Das, M.Govender; *Toy models of compact anisotropic stars and their Love numbers*; (International Journal of Modern Physics D, vol. 32, no. 06, Apr. 2023, p. 2350038 [https://doi.org/10.1142/S0218271823500384](https://doi.org/10.1142/S0218271823500384))
 13. A.Sen, **B.K.Parida**, S. Dhasmana, Z. K. Silagadze; *Eisenhart lift of Koopman-von Neumann mechanics*; (Journal of Geometry and Physics 185 (2023) 104732; [https://doi.org/10.1016/j.geomphys.2022.104732](https://doi.org/10.1016/j.geomphys.2022.104732))
 12. **B.K.Parida**, S.Majumder, S.Das, K.Chakraborty, F.Rahaman; *Anisotropic compact stellar model of embedding class one satisfying Karmarkar’s condition* (Commun. Theor. Phys. 75, 025403 [https://doi.org/10.1088/1572-9494/acaaf5](https://doi.org/10.1088/1572-9494/acaaf5))
-11. S.Das, **B.K.Parida**, R. Sharma, F. Rahaman; *Central Pressure-Dependent Compact Anisotropic Stellar Model and Its Tidal Love Number* (Eur. Phys. J. Plus 137, 1092 (2022) [https://doi.org/10.1140/epjp/s13360-022-03292-4](https://doi.org/10.1140/epjp/s13360-022-03292-4)) 
+11. S.Das, **B.K.Parida**, R. Sharma, F. Rahaman; *Central Pressure-Dependent Compact Anisotropic Stellar Model and Its Tidal Love Number* (Eur. Phys. J. Plus 137, 1092 (2022) [https://doi.org/10.1140/epjp/s13360-022-03292-4](https://doi.org/10.1140/epjp/s13360-022-03292-4))
+10. S.Das, **B.K.Parida**, K. Chakraborty, S. Ray.; *Anisotropic compact star with a linear pressure-density relationship* (International Journal of Modern Physics D, Vol. 31, No. 07, 2250053 (2022) [https://doi.org/10.1142/S0218271822500535](https://doi.org/10.1142/S0218271822500535))
+9. P.Bhar, S.Das, **B.K.Parida**; *Compact Stellar Model in Tolman Spacetime in the Presence of Pressure Anisotropy* (International Journal of Geometric Methods in Modern Physics, vol. 19, no. 06, May 2022, p. 2250095 [https://doi.org/10.1142/S0219887822500955](https://doi.org/10.1142/S0219887822500955))
+8. S.Das, **B.K.Parida**, R.Sharma; *Estimating tidal Love number of a class of compact stars* (Eur. Phys. J. C 82, 136 (2022) [https://doi.org/10.1140/epjc/s10052-022-10057-x](https://doi.org/10.1140/epjc/s10052-022-10057-x))
+7. S.Das, S.Ray, M.Khlopov, **B.K.Parida**; *Anisotropic compact stars: Constraining model parameters to account for physical features of tidal Love numbers* (Annals of Physics, vol. 433, Oct. 2021, p. 168597 [https://doi.org/10.1016/j.aop.2021.168597](https://doi.org/10.1016/j.aop.2021.168597))
+6. S.Das, **B.K.Parida**, S.Ray, S.K.Paul; *Role of anisotropy on the tidal deformability of compact stellar objects*; (Phys. Sci. Forum 2021, 2(1), 29 [https://doi.org/10.3390/ECU2021-09311](https://doi.org/10.3390/ECU2021-09311))
+5. **B.K.Parida**, S.Das; *Some astrophysical aspects of star and its evolution: A brief review*, (IJMAR, Vol. 7 , No. 1 & 2, Page 1 -13 (2020) [Clik here](https://www.maldacollege.ac.in/ijmar-archive-vol7-no-12.php))
+4. **B.K.Parida**; *Unification Schemes of AGN through dusty torus (Master thesis)* ([http://dx.doi.org/10.13140/RG.2.2.12517.32483](http://dx.doi.org/10.13140/RG.2.2.12517.32483))
+3. **B.K.Parida**; *Non-thermal synchrotron emission of ultra-relativistic particles associated with Coronal Mass Ejection* (Completed under the supervision of Scientist/Dr. Edwin Ebenezer, Indian Institute of Astrophysics, India.  (2018))
+2. **B.K.Parida**; *Kodaikanal H alpha brightening observation associated
+		with a propagation of excitor of Coronal Type V Solar Radio Burst* (Completed under the supervision of Scientist/Dr. Edwin Ebenezer, Indian Institute of Astrophysics, India. (2018))
 
 
 
