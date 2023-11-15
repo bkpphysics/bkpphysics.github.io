@@ -1,7 +1,13 @@
 # Physics and AI Researcher
 
-### Education
-Artificial Intelligence, PhD
+#### Technical Skills: 
+
+## Education
+- (2023 - Present) | Ph.D., Artificial Intelligence | Sun Moon University, South Korea.
+- (2017 - 2019) | M.Sc., Physics (Astrophysics Specialization) | Department of Physics, Pondicherry University, India.
+
+## Master Thesis
+#### Title: Unification Schemes of Active Galactic Nuclei (AGN) through dusty torus. 
 
 ### Work Experience
 Artificial Intelligence instructor
