@@ -3,8 +3,8 @@
 #### Technical Skills: 
 
 ## Education
-- (2023 - Present) | Ph.D., Artificial Intelligence | Sun Moon University, South Korea.
-- (2017 - 2019) | M.Sc., Physics (Astrophysics Specialization) | Department of Physics, Pondicherry University, India.
+- (_2023 - Present_)   | Ph.D., Artificial Intelligence | Sun Moon University, South Korea.
+- (_2017 - 2019_)   | M.Sc., Physics (Astrophysics Specialization) | Department of Physics, Pondicherry University, India.
 
 ## Master Thesis
 #### Title: Unification Schemes of Active Galactic Nuclei (AGN) through dusty torus. 
