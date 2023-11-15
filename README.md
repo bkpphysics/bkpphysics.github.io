@@ -38,10 +38,17 @@
 
 ## Work Experience/Participations
 
-- **July 2023 -- Present**: Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
-- **Nov 2023**: Proceeding of the Korea Artificial-Intelligence Convergence Technology Society, Konyang University, S. Korea.
-- 
+- **July 2023 -- Present**: | Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
+- **Nov 2023**: | Proceeding of the Korea Artificial-Intelligence Convergence Technology Society, Konyang University, S. Korea.
+  
    Link: (https://cafe.naver.com/kaicts/120),
   
    Title: Transforming Dental Imaging: 3D Reconstruction from Single PX- Ray Radiograph
+
+  - **Aug, 2023**: | Electronics, Semiconductor, Artificial Intelligence Conference,
+  
+   Gangneung-Wonju National University, South Korea.,
+  
+   Title: Clinically applicable 3D reconstruction of teeth from a single panoramic X-Ray radiograph using Deep
+           Learning methods: A feasibility study
 
