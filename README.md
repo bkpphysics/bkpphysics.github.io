@@ -1,6 +1,6 @@
 # Physics and AI Researcher
 
-#### Technical Skills: 
+
 
 ## Education
 
