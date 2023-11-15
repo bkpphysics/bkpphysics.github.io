@@ -60,6 +60,7 @@
   University of Texas, at Austin, USA. (Participated)
 
 - **2018**: | Summer Internship Programme, Indian Institute of Astrophysics, Bangalore, India.
+  
     **Project Title**: Non-thermal synchrotron emission of ultra-relativistic particles associated with Coronal Mass
      Ejection
 
