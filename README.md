@@ -92,7 +92,7 @@ lift in Koopman-von Neumann Mechanics*; ( Modern Physics Letters A, Nov. 2023, p
 8. S.Das, **B.K.Parida**, R.Sharma; *Estimating tidal Love number of a class of compact stars* (Eur. Phys. J. C 82, 136 (2022) [https://doi.org/10.1140/epjc/s10052-022-10057-x](https://doi.org/10.1140/epjc/s10052-022-10057-x))
 7. S.Das, S.Ray, M.Khlopov, **B.K.Parida**; *Anisotropic compact stars: Constraining model parameters to account for physical features of tidal Love numbers* (Annals of Physics, vol. 433, Oct. 2021, p. 168597 [https://doi.org/10.1016/j.aop.2021.168597](https://doi.org/10.1016/j.aop.2021.168597))
 6. S.Das, **B.K.Parida**, S.Ray, S.K.Paul; *Role of anisotropy on the tidal deformability of compact stellar objects*; (Phys. Sci. Forum 2021, 2(1), 29 [https://doi.org/10.3390/ECU2021-09311](https://doi.org/10.3390/ECU2021-09311))
-5. **B.K.Parida**, S.Das; *Some astrophysical aspects of star and its evolution: A brief review*, (IJMAR, Vol. 7 , No. 1 & 2, Page 1 -13 (2020) [Clik here](https://www.maldacollege.ac.in/ijmar-archive-vol7-no-12.php))
+5. **B.K.Parida**, S.Das; *Some astrophysical aspects of star and its evolution: A brief review*, (IJMAR, Vol. 7 , No. 1 & 2, Page 1 -13 (2020) [Click here](https://www.maldacollege.ac.in/ijmar-archive-vol7-no-12.php))
 4. **B.K.Parida**; *Unification Schemes of AGN through dusty torus (Master thesis)* ([http://dx.doi.org/10.13140/RG.2.2.12517.32483](http://dx.doi.org/10.13140/RG.2.2.12517.32483))
 3. **B.K.Parida**; *Non-thermal synchrotron emission of ultra-relativistic particles associated with Coronal Mass Ejection* (Completed under the supervision of Scientist/Dr. Edwin Ebenezer, Indian Institute of Astrophysics, India.  (2018))
 2. **B.K.Parida**; *Kodaikanal H alpha brightening observation associated
