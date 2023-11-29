@@ -38,8 +38,13 @@
 
 ## Work Experience/Participations
 
-- **July 2023 -- Present**: | Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
-- **Nov 2023**: | Proceeding of the Korea Artificial-Intelligence Convergence Technology Society, Konyang University, S. Korea.
+- **July, 2023 -- Present**: | Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
+- **Nov, 2023**: | Korean Artificial Intelligence Association Fall Conference 2023, Sky Hall, 28th floor, Naver 1784 (Jeja-dong, Bundang-gu).
+
+    Link: [Click here](https://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20230901&B_CATE=BBC1),
+
+    Title: Recent Advances in 3D Oral Reconstruction from Panoramic X-Ray Imaging: A Review (Poster Presentation)
+- **Nov, 2023**: | Proceeding of the Korea Artificial-Intelligence Convergence Technology Society, Konyang University, S. Korea.
   
    Link: [https://cafe.naver.com/kaicts/120](https://cafe.naver.com/kaicts/120),
   
@@ -52,10 +57,10 @@
    Title: Clinically applicable 3D reconstruction of teeth from a single panoramic X-Ray radiograph using Deep
            Learning methods: A feasibility study
 
-- **June 2019, Dec, 2022**: | Lecturer at Shree Education Scholars’ Residential College.
+- **June, 2019, Dec, 2022**: | Lecturer at Shree Education Scholars’ Residential College.
 - **Sept, 2020**: | The Vienna Summer School 2020 on Gravitational Quantum Physics (Participated).
 - **June, 2020**: | (Virtual) Strings 2020, University of Cape Town, South Africa, (Participated).
-- **June, 2020** : | 23rd Capra Meeting on Radiation Reaction in General Relativity,
+- **June, 2020**: | 23rd Capra Meeting on Radiation Reaction in General Relativity,
 
   University of Texas, at Austin, USA. (Participated)
 
@@ -95,8 +100,7 @@ lift in Koopman-von Neumann Mechanics*; ( Modern Physics Letters A, Nov. 2023, p
 5. **B.K.Parida**, S.Das; *Some astrophysical aspects of star and its evolution: A brief review*, (IJMAR, Vol. 7 , No. 1 & 2, Page 1 -13 (2020) [Click here](https://www.maldacollege.ac.in/ijmar-archive-vol7-no-12.php))
 4. **B.K.Parida**; *Unification Schemes of AGN through dusty torus (Master thesis)* ([http://dx.doi.org/10.13140/RG.2.2.12517.32483](http://dx.doi.org/10.13140/RG.2.2.12517.32483))
 3. **B.K.Parida**; *Non-thermal synchrotron emission of ultra-relativistic particles associated with Coronal Mass Ejection* (Completed under the supervision of Scientist/Dr. Edwin Ebenezer, Indian Institute of Astrophysics, India.  (2018))
-2. **B.K.Parida**; *Kodaikanal H alpha brightening observation associated
-		with a propagation of excitor of Coronal Type V Solar Radio Burst* (Completed under the supervision of Scientist/Dr. Edwin Ebenezer, Indian Institute of Astrophysics, India. (2018))
+2. **B.K.Parida**; *Kodaikanal H alpha brightening observation associated with a propagation of excitor of Coronal Type V Solar Radio Burst* (Completed under the supervision of Scientist/Dr. Edwin Ebenezer, Indian Institute of Astrophysics, India. (2018))
 
 
 
