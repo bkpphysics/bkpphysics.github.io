@@ -86,7 +86,7 @@ lift in Koopman-von Neumann Mechanics*; ( Modern Physics Letters A, Nov. 2023, p
 
 16. **B.K.Parida**, A.Sen; *GUP modified Wigner function using classical-quantum unified frame-work*; (Communicated, [https://doi.org/10.21203/rs.3.rs-2598396/v1](https://doi.org/10.21203/rs.3.rs-2598396/v1))
 
-15. S. Ray, S. Das, K.K. Ghosh, **B.K. Parida**, S.K. Pal, *Moumita Indra; Study of anisotropic compact stars by exploring tidal deformability* (New Astronomy, vol. 104, Nov. 2023, p. 102069; [https://doi.org/10.1016/j.newast.2023.102069](https://doi.org/10.1016/j.newast.2023.102069) )
+15. S. Ray, S. Das, K.K. Ghosh, **B.K. Parida**, S.K. Pal, Moumita Indra; *Study of anisotropic compact stars by exploring tidal deformability* (New Astronomy, vol. 104, Nov. 2023, p. 102069; [https://doi.org/10.1016/j.newast.2023.102069](https://doi.org/10.1016/j.newast.2023.102069) )
 
 14. **B.K.Parida**, S.Das, M.Govender; *Toy models of compact anisotropic stars and their Love numbers*; (International Journal of Modern Physics D, vol. 32, no. 06, Apr. 2023, p. 2350038 [https://doi.org/10.1142/S0218271823500384](https://doi.org/10.1142/S0218271823500384))
 13. A.Sen, **B.K.Parida**, S. Dhasmana, Z. K. Silagadze; *Eisenhart lift of Koopman-von Neumann mechanics*; (Journal of Geometry and Physics 185 (2023) 104732; [https://doi.org/10.1016/j.geomphys.2022.104732](https://doi.org/10.1016/j.geomphys.2022.104732))
