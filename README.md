@@ -84,7 +84,7 @@
 17. **B.K.Parida**, A.Sen, S.Dhasmana, Z.K. Silagadze; *Lévy-Leblond Equation and Eisenhart-Duval
 lift in Koopman-von Neumann Mechanics*; ( Modern Physics Letters A, Nov. 2023, p. 2350149; [https://doi.org/10.1142/S0217732323501493](https://doi.org/10.1142/S0217732323501493))
 
-16. **B.K.Parida**, A.Sen; *GUP modified Wigner function using classical-quantum unified frame-work*; (Communicated, [https://doi.org/10.21203/rs.3.rs-2598396/v1](https://doi.org/10.21203/rs.3.rs-2598396/v1))
+16. **B.K.Parida**, A.Sen; *GUP modified Wigner function using classical-quantum unified frame-work*; (Accepted in Indian Journal of Physics, [https://doi.org/10.21203/rs.3.rs-2598396/v1](https://doi.org/10.21203/rs.3.rs-2598396/v1))
 
 15. S. Ray, S. Das, K.K. Ghosh, **B.K. Parida**, S.K. Pal, Moumita Indra; *Study of anisotropic compact stars by exploring tidal deformability* (New Astronomy, vol. 104, Nov. 2023, p. 102069; [https://doi.org/10.1016/j.newast.2023.102069](https://doi.org/10.1016/j.newast.2023.102069) )
 
