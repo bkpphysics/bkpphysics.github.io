@@ -85,6 +85,8 @@
               (Participated).
 
 ## Projects & Publications
+18. S. Das, S. Ray, **B.K. Parida**, et al; *A study on anisotropic compact stellar model under color-flavor locked equation of state*; (Accepted in the journal - Chinese Journal of Physics)
+
 17. **B.K.Parida**, A.Sen, S.Dhasmana, Z.K. Silagadze; *Lévy-Leblond Equation and Eisenhart-Duval
 lift in Koopman-von Neumann Mechanics*; ( Modern Physics Letters A, Nov. 2023, p. 2350149; [https://doi.org/10.1142/S0217732323501493](https://doi.org/10.1142/S0217732323501493))
 
