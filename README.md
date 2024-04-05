@@ -38,7 +38,7 @@
 
 ## Work Experience/Participations
 
-- **July, 2023 -- Present**: | Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
+- **July, 2023 -- Dec, 2023**: | Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
 - **Feb, 2024**: | The 7th International Conference on Communication Engineering and Technology (ICCET 2024) held on February 22-24, 2024 in Tokyo, Japan.
 
     Link: [https://www.iccet.org](https://www.iccet.org)
