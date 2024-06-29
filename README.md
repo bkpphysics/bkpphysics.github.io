@@ -85,6 +85,8 @@
               (Participated).
 
 ## Projects & Publications
+19. Anusree P.S., **B.K. Parida**, W. You; *Recent Advances in Dental Panoramic X-Ray Synthesis and its Clinical Applications*; (Accepted in IEEE Access)
+
 18. S. Das, S. Ray, **B.K. Parida**, et al; *A study on anisotropic compact stellar model under color-flavor locked equation of state*; (Chinese Journal of Physics,Apr. 2024; [https://doi.org/10.1016/j.cjph.2024.04.001](https://doi.org/10.1016/j.cjph.2024.04.001))
 
 17. **B.K.Parida**, A.Sen, S.Dhasmana, Z.K. Silagadze; *Lévy-Leblond Equation and Eisenhart-Duval
