@@ -85,7 +85,7 @@
               (Participated).
 
 ## Projects & Publications
-19. Anusree P.S., **B.K. Parida**, W. You; *Recent Advances in Dental Panoramic X-Ray Synthesis and its Clinical Applications*; (Accepted in IEEE Access)
+19. Anusree P.S., **B.K. Parida**, W. You; *Recent Advances in Dental Panoramic X-Ray Synthesis and its Clinical Applications*; (IEEE Access, 2024, pp. 1–1 [https://doi.org/10.1109/ACCESS.2024.3422650](https://doi.org/10.1109/ACCESS.2024.3422650))
 
 18. S. Das, S. Ray, **B.K. Parida**, et al; *A study on anisotropic compact stellar model under color-flavor locked equation of state*; (Chinese Journal of Physics,Apr. 2024; [https://doi.org/10.1016/j.cjph.2024.04.001](https://doi.org/10.1016/j.cjph.2024.04.001))
 
