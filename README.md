@@ -4,7 +4,7 @@
 
 ## Education
 
-- **2023-Present**: PhD in Artificial intelligence & image processing, Sun Moon University, South Korea
+- **2023-Present**: PhD in Information and Communication Engineering, Sun Moon University, South Korea
 - **2017-2019**: M.Sc. Physics (Astrophysics Specialization), Department of Physics, Pondicherry University, India.
 
 
@@ -37,6 +37,8 @@
 - **Documentation Software**: LaTex, TexStudio, Microsoft Office, Libre Office.
 
 ## Work Experience/Participations
+
+- **March, 2023 -- Present**: | Research Assistant at Artifical Intelligence and Image Processing Lab., Sun Moon University, S. Korea.
 
 - **Feb, 2024**: | The 7th International Conference on Communication Engineering and Technology (ICCET 2024) held on February 22-24, 2024 in Tokyo, Japan.
 
