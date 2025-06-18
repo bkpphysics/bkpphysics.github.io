@@ -38,7 +38,6 @@
 
 ## Work Experience/Participations
 
-- **July, 2023 -- Dec, 2023**: | Artificial Intelligence instructor, AI Club (Pyxeda, Inc), 650 Castro Street #120-345 Mountain View California 94041 United States (Remote)
 - **Feb, 2024**: | The 7th International Conference on Communication Engineering and Technology (ICCET 2024) held on February 22-24, 2024 in Tokyo, Japan.
 
     Link: [https://www.iccet.org](https://www.iccet.org)
@@ -60,13 +59,12 @@
   
    Title: Clinically applicable 3D reconstruction of teeth from a single panoramic X-Ray radiograph using Deep
            Learning methods: A feasibility study
-
-- **June, 2019, Dec, 2022**: | Lecturer at Shree Education Scholars’ Residential College.
-- **Sept, 2020**: | The Vienna Summer School 2020 on Gravitational Quantum Physics (Participated).
-- **June, 2020**: | (Virtual) Strings 2020, University of Cape Town, South Africa, (Participated).
+  
+- **Sept, 2020**: | The Vienna Summer School 2020 on Gravitational Quantum Physics (Participated-online).
+- **June, 2020**: | (Virtual) Strings 2020, University of Cape Town, South Africa, (Participated - online).
 - **June, 2020**: | 23rd Capra Meeting on Radiation Reaction in General Relativity,
 
-  University of Texas, at Austin, USA. (Participated)
+  University of Texas, at Austin, USA. (Participated- online)
 
 - **2018**: | Summer Internship Programme, Indian Institute of Astrophysics, Bangalore, India.
   
@@ -85,6 +83,9 @@
               (Participated).
 
 ## Projects & Publications
+
+20. Anusree P.S., **B.K. Parida**, W. You; *Panoramic X-Ray Synthesis From Dental CBCT Using Patient-Tailored Simulated Geometry With Uniform Projection Sampling*; (IEEE Access, 2025,[https://doi.org/10.1109/ACCESS.2025.3573744](https://doi.org/10.1109/ACCESS.2025.3573744))
+
 19. Anusree P.S., **B.K. Parida**, W. You; *Recent Advances in Dental Panoramic X-Ray Synthesis and its Clinical Applications*; (IEEE Access, 2024, pp. 1–1 [https://doi.org/10.1109/ACCESS.2024.3422650](https://doi.org/10.1109/ACCESS.2024.3422650))
 
 18. S. Das, S. Ray, **B.K. Parida**, et al; *A study on anisotropic compact stellar model under color-flavor locked equation of state*; (Chinese Journal of Physics,Apr. 2024; [https://doi.org/10.1016/j.cjph.2024.04.001](https://doi.org/10.1016/j.cjph.2024.04.001))
