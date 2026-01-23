@@ -1,0 +1,148 @@
+:root {
+    --primary-color: #0ea5e9;
+    --secondary-color: #6366f1;
+    --accent-color: #f472b6;
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+    --bg-light: rgba(255, 255, 255, 0.86);
+}
+
+body {
+    font-family: 'Inter', 'Space Grotesk', system-ui, -apple-system, sans-serif;
+    background:
+        radial-gradient(900px circle at 12% 18%, rgba(14, 165, 233, 0.16), transparent 35%),
+        radial-gradient(1100px circle at 88% -6%, rgba(99, 102, 241, 0.18), transparent 40%),
+        linear-gradient(180deg, #f9fbff 0%, #eef2ff 50%, #f8fafc 100%);
+    min-height: 100vh;
+    color: var(--text-primary);
+    position: relative;
+}
+
+body::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    background-image: radial-gradient(circle at 1px 1px, rgba(15, 23, 42, 0.08) 1px, transparent 0);
+    background-size: 22px 22px;
+    opacity: 0.4;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', 'Inter', system-ui, -apple-system, sans-serif;
+    letter-spacing: -0.02em;
+    color: var(--text-primary);
+}
+
+.nav-glass {
+    background: rgba(255, 255, 255, 0.86);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(14, 165, 233, 0.12);
+}
+
+.hero-gradient {
+    background:
+        radial-gradient(120% 120% at 20% 20%, rgba(14, 165, 233, 0.18), transparent 45%),
+        radial-gradient(120% 120% at 80% 10%, rgba(99, 102, 241, 0.24), transparent 40%),
+        linear-gradient(135deg, #0f172a 0%, #0b1221 50%, #0f172a 100%);
+    position: relative;
+}
+
+.hero-gradient::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(50% 50% at 50% 45%, rgba(255, 255, 255, 0.08), transparent 60%);
+}
+
+.hero-alt {
+    background:
+        radial-gradient(140% 140% at 15% 20%, rgba(14, 165, 233, 0.24), transparent 40%),
+        radial-gradient(120% 120% at 85% 10%, rgba(99, 102, 241, 0.32), transparent 38%),
+        linear-gradient(135deg, #0b1221 0%, #0c1326 45%, #0b1221 100%);
+    position: relative;
+}
+
+.hero-alt::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(180deg, rgba(7, 11, 19, 0.6) 0%, rgba(7, 11, 19, 0.72) 100%);
+    pointer-events: none;
+}
+
+.section-card {
+    position: relative;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background: rgba(255, 255, 255, 0.82);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(14, 165, 233, 0.12);
+    box-shadow: 0 20px 60px rgba(15, 23, 42, 0.08);
+    overflow: hidden;
+}
+
+.section-card::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(14, 165, 233, 0.08), rgba(99, 102, 241, 0.04));
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+}
+
+.section-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 30px 80px rgba(15, 23, 42, 0.12);
+}
+
+.section-card:hover::after {
+    opacity: 1;
+}
+
+.skill-badge {
+    transition: all 0.25s ease;
+    background: rgba(14, 165, 233, 0.08);
+    border: 1px solid rgba(14, 165, 233, 0.18);
+    backdrop-filter: blur(5px);
+}
+
+.skill-badge:hover {
+    transform: translateY(-2px) scale(1.02);
+    background: rgba(14, 165, 233, 0.14);
+}
+
+.bg-section-light {
+    background: linear-gradient(180deg, rgba(255,255,255,0.78) 0%, rgba(255,255,255,0.94) 100%);
+}
+
+.bg-section-white {
+    background: linear-gradient(180deg, rgba(255,255,255,0.92) 0%, rgba(255,255,255,0.84) 100%);
+}
+
+.gradient-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.45rem 1rem;
+    border-radius: 999px;
+    background: linear-gradient(90deg, rgba(14, 165, 233, 0.16), rgba(99, 102, 241, 0.18));
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: #0f172a;
+}
+
+.gradient-pill.light {
+    color: #e2e8f0;
+    border-color: rgba(255, 255, 255, 0.25);
+}
+
+.glass-panel {
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 0 20px 60px rgba(15, 23, 42, 0.1);
+    backdrop-filter: blur(14px);
+}
