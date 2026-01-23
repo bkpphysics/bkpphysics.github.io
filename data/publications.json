@@ -1,0 +1,163 @@
+[
+  {
+    "category": "ai",
+    "title": "K-U-KAN: Koopman-Enhanced U-KAN for 3D Dental Reconstruction from a Single Panoramic X-ray Radiograph",
+    "citation": "B.K. Parida, A. Sen, W. You; (Ready to submit in an appropriate journal)",
+    "doi": "",
+    "url": ""
+  },
+  {
+    "category": "ai",
+    "title": "Feature Engineering is Not Dead: Reviving Classical Machine Learning with Entropy, HOG, and LBP Feature Fusion for Image Classification",
+    "citation": "A. Sen, G. Maiti, B.K. Parida et al. (In review in Pattern Recognition), 2026",
+    "doi": "https://doi.org/10.48550/arXiv.2507.13772",
+    "url": "https://arxiv.org/abs/2507.13772"
+  },
+  {
+    "category": "ai",
+    "title": "ViT-NeBLa: A Hybrid Vision Transformer and Neural Beer–Lambert Framework for Single-View 3D Reconstruction of Oral Anatomy From Panoramic Radiographs",
+    "citation": "B.K. Parida et al, IEEE Access, vol. 13, 2025, pp. 170761–81.",
+    "doi": "https://doi.org/10.1109/ACCESS.2025.3613789",
+    "url": ""
+  },
+  {
+    "category": "ai",
+    "title": "Input-Output Optics as a Causal Time Series Mapping: A Generative Machine Learning Solution",
+    "citation": "A. Sen, B.K. Parida, D. Bonder, Physical Review Research.",
+    "doi": "https://doi.org/10.1103/PhysRevResearch.7.023015",
+    "url": " "
+  },
+  {
+    "category": "ai",
+    "title": "Panoramic X-ray Synthesis from Dental CBCT Using Patient-tailored Simulated Geometry with Uniform Projection Sampling.",
+    "citation": "Anusree P.S., B.K. Parida, S.Y. Moon, W.You; IEEE Access, vol. 13, pp. 100752–100763, 2025",
+    "doi": "https://doi.org/10.1109/ACCESS.2025.3573744",
+    "url": ""
+  },
+  {
+    "category": "ai",
+    "title": "Physics Informed Kolmogorov-Arnold Neural Networks for Dynamical Analysis via Efficent-KAN and WAV-KAN",
+    "citation": "P. Patra, S. Panda, B.K. Parida et al; I(Journal of Machine Learning Research; vol. 26, no. 233, pp. 1–39, 2025.",
+    "doi": "http://jmlr.org/papers/v26/24-1278.html",
+    "url": "http://jmlr.org/papers/v26/24-1278.html"
+  },
+  {
+    "category":"ai",
+    "title": "Exploring Jaw Morphology and Patient-specific Dynamic Rotation Trajectory Using Cone Beam Computed Tomography",
+    "citation": "Anusree P.S., B.K. Parida, W.You; 7th International Conference on Communication Engineering and Technology (ICCET), IEEE, 2024, pp. 81–85 ",
+    "doi" : "https://doi.org/10.1109/ICCET62255.2024.00021",
+    "url": " "
+  },
+  {
+    "category":"ai",
+    "title": "Recent Advances in Dental Panoramic X-Ray Synthesis and its Clinical Applications ",
+    "citation": "Anusree P.S., B.K. Parida, W.You; IEEE Access, 2024, pp. 1–1 ",
+    "doi" : " https://doi.org/10.1109/ACCESS.2024.3422650",
+    "url": " "
+  },
+  {
+    "category":"physics",
+    "title": " A study on anisotropic compact stellar model under color-flavor locked equation of state",
+    "citation": "S. Das, S. Ray, B.K. Parida et al ; Chinese Journal of Physics, vol. 90, Aug. 2024, pp. 474–93 ",
+    "doi" : "https://doi.org/10.1016/j.cjph.2024.04.001",
+    "url": " "
+  },
+  {
+    "category":"physics",
+    "title" : " GUP modified Wigner function using classical-quantum unified framework",
+    "citation" : " B.K. Parida, A.Sen; Indian Journal of Physics, March 2024.",
+    "doi" : "https://doi.org/10.1007/s12648-024-03086-7",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : "L´evy-Leblond Equation and Eisenhart-Duval lift in Koopman-von Neumann Mechanics ",
+    "citation" : "B.K. Parida, A.Sen, S.Dhasmana, Z.K. Silagadze;  Modern Physics Letters A, Nov. 2023, p. 2350149 ",
+    "doi" : "https://doi.org/10.1142/S0217732323501493",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : " Study of anisotropic compact stars by exploring tidal deformability",
+    "citation" : "S. Ray, S. Das, K.K. Ghosh, B.K. Parida, S.K. Pal, Moumita Indra; (New Astronomy, vol. 104, Nov. 2023, p. 102069 ) ",
+    "doi" : "https://doi.org/10.1016/j.newast.2023.102069",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : "Toy models of compact anisotropic stars and their Love numbers ",
+    "citation" : "B.K. Parida, S.Das, M.Govender; (International Journal of Modern Physics D, vol. 32, no. 06, Apr. 2023, p. 2350038) ",
+    "doi" : "https://doi.org/10.1142/S0218271823500384",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : "Eisenhart lift of Koopman-von Neumann mechanics ",
+    "citation" : "A.Sen, B.K. Parida, S. Dhasmana, Z. K. Silagadze; (Journal of Geometry and Physics 185 (2023) 104732) ",
+    "doi" : "https://doi.org/10.1016/j.geomphys.2022.104732 ",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : "Anisotropic compact stellar model of embedding class one satisfying Karmarkar’s condition ",
+    "citation" : "B.K. Parida, S.Majumder, S.Das, K.Chakraborty, F.Rahaman;  Commun. Theor. Phys. 75, 025403 ",
+    "doi" : "https://doi.org/10.1088/1572-9494/acaaf5 ",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : "Central Pressure-Dependent Compact Anisotropic Stellar Model and Its Tidal Love Number ",
+    "citation" : "S.Das, B.K. Parida, R. Sharma, F. Rahaman; (Eur. Phys. J. Plus 137, 1092 (2022)) ",
+    "doi" : " https://doi.org/10.1140/epjp/s13360-022-03292-4",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : " Anisotropic compact star with a linear pressure-density relationship",
+    "citation" : "S.Das, B.K. Parida, K. Chakraborty, S. Ray;  (International Journal of Modern Physics D, Vol. 31, No. 07, 2250053 (2022)) ",
+    "doi" : "https://doi.org/10.1142/S0218271822500535 ",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : "Compact Stellar Model in Tolman Spacetime in the Presence of Pressure Anisotropy ",
+    "citation" : "P.Bhar, S.Das, B.K. Parida; (International Journal of Geometric Methods in Modern Physics, vol. 19, no. 06, May 2022, p. 2250095) ",
+    "doi" : "https://doi.org/10.1142/S0219887822500955 ",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : " Estimating tidal Love number of a class of compact stars",
+    "citation" : "S.Das, B.K. Parida, R.Sharma; (Eur. Phys. J. C 82, 136 (2022)) ",
+    "doi" : "https://doi.org/10.1140/epjc/s10052-022-10057-x ",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : " Anisotropic compact stars: Constraining model parameters to account for physical features of tidal Love numbers",
+    "citation" : "S.Das, S.Ray, M.Khlopov, B.K. Parida; ( Annals of Physics, vol. 433, Oct. 2021, p. 168597)",
+    "doi" : " https://doi.org/10.1016/j.aop.2021.168597",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : " Role of anisotropy on the tidal deformability of compact stellar objects",
+    "citation" : "S.Das, B.K. Parida, S.Ray, S.K.Paul; Phys. Sci. Forum 2021, 2(1), 29 ",
+    "doi" : "https://doi.org/10.3390/ECU2021-09311 ",
+    "url" : " "
+  },
+    {
+    "category":"physics",
+    "title" : "Some astrophysical aspects of star and its evolution: A brief review ",
+    "citation" : "B.K. Parida, S.Das; IJMAR, Vol. 7 , No. 1 & 2, Page 1 -13 (2020). ",
+    "doi" : "https://www.maldacollege.ac.in/ijmar-archive-vol7-no-12.php ",
+    "url" : " https://www.maldacollege.ac.in/ijmar-archive-vol7-no-12.php"
+  },
+    {
+    "category":"physics",
+    "title" : " Unification Schemes of AGN through dusty torus",
+    "citation" : "B.K. Parida (2019)",
+    "doi" : "https://doi.org/10.13140/RG.2.2.12517.32483 ",
+    "url" : " "
+  }
+]
