@@ -5,7 +5,7 @@ function Header() {
         { label: 'Home', href: 'index.html#top' },
         { label: 'About', href: 'index.html#about' },
         { label: 'Research', href: 'research.html#top' },
-        { label: 'Publications', href: 'research.html#publications' },
+        { label: 'Publications', href: 'publications.html#top' },
         { label: 'Blog', href: 'blog.html#top' },
         { label: 'Contact', href: '#contact' }
     ];

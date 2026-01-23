@@ -20,19 +20,19 @@ class ErrorBoundary extends React.Component {
     }
 }
 
-function ResearchHero() {
+function PublicationsHero() {
     return (
         <section className="hero-alt text-white pt-36 pb-24 relative overflow-hidden">
             <div className="container mx-auto px-6 relative z-10">
                 <div className="max-w-3xl">
                     <span className="gradient-pill light text-sm uppercase tracking-wide mb-4 inline-flex">
-                        Research & Projects
+                        Publications
                     </span>
                     <h1 className="text-4xl md:text-5xl font-bold mb-4 leading-tight text-white drop-shadow-lg">
-                        Applied AI for Medical Imaging
+                        Papers, Preprints, and Benchmarks
                     </h1>
                     <p className="text-lg text-white/90 leading-relaxed">
-                        Project writeups, benchmarks, and systems across computer vision, generative modeling, and quantum-inspired workflows.
+                        Peer-reviewed work and datasets across computer vision, generative AI, and quantum-inspired modeling.
                     </p>
                 </div>
             </div>
@@ -40,14 +40,14 @@ function ResearchHero() {
     );
 }
 
-function ResearchPage() {
+function PublicationsPage() {
     return (
         <ErrorBoundary>
-            <div data-name="research-page" id="top">
+            <div data-name="publications-page" id="top">
                 <Header />
                 <main>
-                    <ResearchHero />
-                    <Research />
+                    <PublicationsHero />
+                    <Publications />
                     <Contact />
                 </main>
                 <Footer />
@@ -56,5 +56,5 @@ function ResearchPage() {
     );
 }
 
-const researchRoot = ReactDOM.createRoot(document.getElementById('root'));
-researchRoot.render(<ResearchPage />);
+const publicationsRoot = ReactDOM.createRoot(document.getElementById('root'));
+publicationsRoot.render(<PublicationsPage />);
