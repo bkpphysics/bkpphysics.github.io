@@ -16,15 +16,21 @@ function Header() {
                 <nav className="container mx-auto px-6 py-4">
                     <div className="flex items-center justify-between">
                         <div className="flex items-center gap-3">
-                            <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-100 to-indigo-100 flex items-center justify-center shadow-inner">
-                                <span className="icon-flask text-[var(--primary-color)] text-xl"></span>
+                            <div className="relative w-12 h-12 rounded-xl overflow-hidden border border-white/60 bg-gradient-to-br from-cyan-100 to-indigo-100 shadow-inner">
+                                <img
+                                    src="photo/bkp_photo.jpg"
+                                    alt="Bikram Keshari Parida"
+                                    className="absolute inset-0 w-full h-full object-cover"
+                                    style={{ objectPosition: '50% 20%' }}
+                                    loading="lazy"
+                                />
                             </div>
                             <div>
-                            <div className="text-2xl font-black bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-indigo-600">
-                                BKP
+                                <div className="text-2xl font-black bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-indigo-600">
+                                    BKP
+                                </div>
+                                <p className="text-xs uppercase tracking-[0.2em] text-slate-500">AI Research</p>
                             </div>
-                            <p className="text-xs uppercase tracking-[0.2em] text-slate-500">AI Research</p>
-                        </div>
                         </div>
                         
                         <div className="hidden md:flex items-center space-x-6">
@@ -38,7 +44,7 @@ function Header() {
                                 onClick={() => setIsMenuOpen(false)}
                                 className="px-4 py-2 rounded-full bg-gradient-to-r from-[var(--primary-color)] to-[var(--secondary-color)] text-white font-semibold shadow-md hover:shadow-lg transition-all"
                             >
-                                Let’s Talk
+                                Let's Talk
                             </a>
                         </div>
 
@@ -67,7 +73,7 @@ function Header() {
                                 className="block w-full text-left py-2 text-[var(--primary-color)] font-semibold"
                                 onClick={() => setIsMenuOpen(false)}
                             >
-                                Let’s Talk
+                                Let's Talk
                             </a>
                         </div>
                     )}

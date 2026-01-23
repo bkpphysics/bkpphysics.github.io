@@ -19,6 +19,24 @@ function Footer() {
                                 <div className="icon-mail text-2xl"></div>
                             </a>
                             <a 
+                                href="https://www.researchgate.net/profile/Bikram-Parida-2" 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                className="text-gray-400 hover:text-white transition-colors"
+                                aria-label="ResearchGate"
+                            >
+                                <div className="text-xl font-bold tracking-tighter">RG</div>
+                            </a>
+                            <a 
+                                href="https://www.linkedin.com/in/bikram-keshari-parida-10478a285/" 
+                                target="_blank" 
+                                rel="noopener noreferrer"
+                                className="text-gray-400 hover:text-white transition-colors"
+                                aria-label="LinkedIn"
+                            >
+                                <div className="icon-linkedin text-2xl"></div>
+                            </a>
+                            <a 
                                 href="https://bkpphysics.github.io/" 
                                 target="_blank" 
                                 rel="noopener noreferrer"

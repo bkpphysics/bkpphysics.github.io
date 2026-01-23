@@ -35,7 +35,7 @@ function About() {
                                     </div>
                                     <ul className="space-y-3 text-[var(--text-secondary)] list-disc pl-5">
                                         <li className="leading-relaxed">
-                                            <div className="font-semibold text-[var(--text-primary)]">Ph.D. Information & Communication Engineering</div>
+                                            <div className="font-semibold text-[var(--text-primary)]">Ph.D. Information & Communication Engineering (Big Data Convergence)</div>
                                             <div>Sun Moon University, South Korea · 2026</div>
                                         </li>
                                         <li className="leading-relaxed">
