@@ -18,7 +18,7 @@ function Hero() {
                         <div className="space-y-6">
                             <span className="gradient-pill light text-sm uppercase tracking-wide">
                                 <span className="icon-brain text-base"></span>
-                                Computer Vision · Generative AI · Quantum ML
+                                Computer Vision | Generative AI | Agentic AI | LLMs | Quantum ML
                             </span>
 
                             <div>
@@ -49,13 +49,22 @@ function Hero() {
                                     <span className="icon-file-text text-xl"></span>
                                     Download CV
                                 </a>
+                                <a 
+                                    href="https://scholar.google.com/citations?user=rhFBhAIAAAAJ&hl=en" 
+                                    target="_blank" 
+                                    rel="noopener noreferrer"
+                                    className="inline-flex items-center gap-2 px-5 py-3 rounded-full border border-white/40 text-white/90 hover:bg-white/10 transition"
+                                >
+                                    <span className="icon-graduation-cap text-xl"></span>
+                                    Google Scholar
+                                </a>
                             </div>
 
                             <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 max-w-2xl">
                                 {[
-                                    { label: 'Publications', value: '15+' },
+                                    { label: 'Publications', value: '22+' },
                                     { label: 'Ph.D. CGPA', value: '4.42/4.5' },
-                                    { label: 'Years Research', value: '3+' }
+                                    { label: 'Years Research', value: '7+' }
                                 ].map((item, index) => (
                                     <div key={index} className="p-4 rounded-2xl bg-white/5 border border-white/10 backdrop-blur">
                                         <div className="text-3xl font-bold mb-1">{item.value}</div>
