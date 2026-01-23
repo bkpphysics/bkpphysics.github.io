@@ -2,7 +2,7 @@ function Experience() {
     const experiences = [
         {
             role: "Research Assistant",
-            organization: "AI & Image Processing Lab, Sun Moon University",
+            organization: "Artificial Intelligence & Image Processing Lab, Sun Moon University",
             period: "March 2023 - Present",
             location: "South Korea",
             icon: "icon-flask"
