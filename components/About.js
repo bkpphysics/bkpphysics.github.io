@@ -21,7 +21,7 @@ function About() {
                             
                             <p className="text-lg text-[var(--text-secondary)] leading-relaxed mb-8">
                                 My research interests span Computer Vision, Generative AI, Physics-Informed Neural Networks (PINN), 
-                                and Quantum Machine Learning. I have contributed to multiple high-impact publications in both AI 
+                                Quantum Computing and Quantum Machine Learning. I have contributed to multiple high-impact publications in both AI 
                                 and theoretical physics domains.
                             </p>
 
@@ -33,10 +33,19 @@ function About() {
                                         </div>
                                         <h3 className="text-xl font-semibold">Education</h3>
                                     </div>
-                                    <ul className="space-y-2 text-[var(--text-secondary)]">
-                                        <li>Ph.D. Information & Communication Engineering (2026)</li>
-                                        <li>M.Sc. Physics, Pondicherry University (2019)</li>
-                                        <li>B.Sc. Physics (Hons.), Sambalpur University (2016)</li>
+                                    <ul className="space-y-3 text-[var(--text-secondary)] list-disc pl-5">
+                                        <li className="leading-relaxed">
+                                            <div className="font-semibold text-[var(--text-primary)]">Ph.D. Information & Communication Engineering</div>
+                                            <div>Sun Moon University, South Korea · 2026</div>
+                                        </li>
+                                        <li className="leading-relaxed">
+                                            <div className="font-semibold text-[var(--text-primary)]">M.Sc. Physics</div>
+                                            <div>Pondicherry University, India · 2019</div>
+                                        </li>
+                                        <li className="leading-relaxed">
+                                            <div className="font-semibold text-[var(--text-primary)]">B.Sc. Physics (Hons.)</div>
+                                            <div>Sambalpur University, India · 2016</div>
+                                        </li>
                                     </ul>
                                 </div>
 

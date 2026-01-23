@@ -25,8 +25,8 @@ function Hero() {
                                 <h1 className="text-5xl md:text-6xl font-bold mb-4 leading-tight text-white">
                                     Bikram Keshari Parida
                                 </h1>
-                                <p className="text-xl md:text-2xl text-white/90 mb-2">AI Researcher · Ph.D. (AI & Image Processing)</p>
-                                <p className="text-lg text-white/80">Sun Moon University · South Korea</p>
+                                <p className="text-xl md:text-2xl text-white/90 mb-2">AI Researcher · Ph.D. (AI & Computer Vision)</p>
+                                {/* <p className="text-lg text-white/80">Sun Moon University · South Korea</p> */}
                             </div>
 
                             <p className="text-lg text-white/80 leading-relaxed max-w-2xl">
@@ -81,7 +81,7 @@ function Hero() {
                             <div className="bg-white/10 backdrop-blur-xl border border-white/15 rounded-3xl p-8 shadow-2xl relative overflow-hidden">
                                 <div className="flex items-center gap-2 text-sm uppercase tracking-wide text-white/70 mb-4">
                                     <span className="icon-cpu text-base"></span>
-                                    Current Thesis
+                                    Research
                                 </div>
                                 <h3 className="text-2xl font-semibold mb-3">DentAI Dyad</h3>
                                 <p className="text-white/80 leading-relaxed mb-6">

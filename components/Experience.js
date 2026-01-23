@@ -2,16 +2,16 @@ function Experience() {
     const experiences = [
         {
             role: "Research Assistant",
-            organization: "AI & Image Processing Lab, Sun Moon University",
+            organization: "Artificial Intelligence & Image Processing Lab, Sun Moon University",
             period: "March 2023 - Present",
             location: "South Korea",
-            icon: "icon-flask"
+            icon: "icon-atom"
         },
         {
             role: "Data Science Trainer",
             organization: "AI Club (Online)",
             period: "July 2023 - Dec 2023",
-            location: "Remote",
+            location: "USA(Remote)",
             icon: "icon-presentation"
         },
         {
@@ -19,6 +19,13 @@ function Experience() {
             organization: "Shree Education Scholars' Residential College",
             period: "June 2019 - Dec 2022",
             location: "Odisha, India",
+            icon: "icon-school"
+        },
+        {
+            role: "Summer internship programme",
+            organization: "Indian Institute of Astrophysics",
+            period: "2018",
+            location: "Bangalore, India",
             icon: "icon-school"
         }
     ];

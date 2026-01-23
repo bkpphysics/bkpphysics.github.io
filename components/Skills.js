@@ -12,7 +12,7 @@ function Skills() {
         },
         {
             title: "Specializations",
-            skills: ["Computer Vision", "Deep Learning", "Medical Imaging", "Quantum ML"],
+            skills: ["Computer Vision", "Deep Learning", "Medical Imaging","NeRF","Agentic AI & LLM", "Quantum ML"],
             icon: "icon-brain"
         }
     ];
