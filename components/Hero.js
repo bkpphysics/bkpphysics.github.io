@@ -18,7 +18,7 @@ function Hero() {
                         <div className="space-y-6">
                             <span className="gradient-pill light text-sm uppercase tracking-wide">
                                 <span className="icon-brain text-base"></span>
-                                Computer Vision | Generative AI | Agentic AI | LLMs | Quantum ML
+                                Computer Vision | Generative AI | Agentic AI | LLM | Quantum ML
                             </span>
 
                             <div>
