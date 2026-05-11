@@ -6,6 +6,15 @@
     "doi": "",
     "url": ""
   },
+
+{
+    "category": "ai",
+    "title": "Geometric Kolmogorov--Arnold Network (GeoKAN)",
+    "citation": "A. Sen, B.K. Parida, G. Maiti, M. Arya, D.I. Bondar; (ArXiv: 2605.06740v1)",
+    "doi": "https://doi.org/10.48550/arXiv.2605.06740",
+    "url": "https://arxiv.org/abs/2605.06740v1"
+  },
+  
   {
     "category": "ai",
     "title": "Feature Engineering is Not Dead: Reviving Classical Machine Learning with Entropy, HOG, and LBP Feature Fusion for Image Classification",
