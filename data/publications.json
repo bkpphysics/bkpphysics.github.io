@@ -1,5 +1,13 @@
 [
 
+    {
+    "category": "ai",
+    "title": "Digital Twin Modeling of Quantum Dynamical Systems: Dissipative Quantum Reservoir Computing",
+    "citation": "A. Sen, B.K. Parida, S. Chauhan, M. Arya, D.I. Bondar; (arXiv.2609.36901)",
+    "doi": "https://doi.org/10.48550/arXiv.2609.36901",
+    "url": "https://arxiv.org/abs/2609.36901"
+  },
+
   {
     "category": "physics",
     "title": "Exploration of Zero-Complexity Compact Stars in Higher Dimensions under the Finch-Skea Background",
